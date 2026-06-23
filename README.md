@@ -124,15 +124,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=NGUYENQUANGCHIEN2701&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
