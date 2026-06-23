@@ -36,7 +36,7 @@
 ║  Viet Nam 🇻🇳                            ║
 ║                                          ║
 ║  > role                                  ║
-║  Backend & Systems Engineer              ║
+║  Software Engineer                       ║
 ║  Former AI Engineer                      ║
 ║                                          ║
 ║  > contact                               ║
