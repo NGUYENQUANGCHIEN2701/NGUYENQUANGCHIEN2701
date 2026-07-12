@@ -107,23 +107,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NGUYENQUANGCHIEN2701&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYENQUANGCHIEN2701&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=NGUYENQUANGCHIEN2701&theme=shadow_green&hide_border=true&background=0d1117&stroke=2ea043&ring=3fb950&fire=2ea043&currStreakNum=3fb950&sideNums=3fb950&currStreakLabel=2ea043&sideLabels=58a65c&dates=58a65c)
-
-</div>
-
----
-
 
 ## 📈 Contribution Graph
 
